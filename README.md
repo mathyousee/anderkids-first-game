@@ -12,6 +12,20 @@ As an added bonus, I can export builds to HTML5 apps, which I'll try to pop into
 
 ## Project History
 
+### v2
+
+Kids were excited to get back at it. First thing we did was add another character (one for Dad). Babas. I did a good enough job, but I also kept it brief so the kids didn't get distracted.
+
+Then we decided to add in a way to switch between players. We decided on adding markers to the map where the player can cross over it to swap to a new one. That worked fine for me, since adding in the logic for that was pretty straightforward (even if it was inefficient with sprite slots). 
+
+For fun, we added a character swap sound effect, too!
+
+Last task in the first session was they added another character. They're getting good with the sprite editor. This one is just a floating eye. E was thrilled.
+
+Second session focused on some map updates, adding more items and expanding to more screens. Didn't expand too far, but added interest to the area.
+
+With all of the additional items, we talked about keeping track of how many they've collected. I added a simple counter for flowers and apples slapped it at the top of the screen. I'm sure there's a more elegant way to code it but it's working nicely.
+
 ### v1
 
 Started with the "Wander" demo that comes with pico-8 fantasy console. Let them get a sense for basic movement, then we talked about what they wanted to do. 
